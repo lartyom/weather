@@ -1,0 +1,4 @@
+﻿  weather.cpp
+C:\Users\Admin\source\repos\weather\weather\weather.cpp(34,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\weather\weather\weather.cpp(74,27): warning C4018: <: несоответствие типов со знаком и без знака
+  weather.vcxproj -> C:\Users\Admin\source\repos\weather\Debug\weather.exe
